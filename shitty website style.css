@@ -1,0 +1,17 @@
+body{
+    background: url('stein gate fat man.png') no-repeat scroll center;
+    background-size: 1000px;
+}
+
+h1{
+    color: red;
+    text-align: centre;
+}
+
+p{
+    color: blue;
+}
+
+.space{margin-top: 300px}
+.lefttext{text-align: left}
+.righttext{text-align: right}
